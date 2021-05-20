@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad 4</string>
+    <string name="btnCamara">Camara</string>
+    <string name="imgFoto">Foto capturada</string>
+</resources>
